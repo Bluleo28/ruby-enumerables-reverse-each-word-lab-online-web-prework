@@ -1,0 +1,1 @@
+(reverse_each_word(sentence1)) .to eq( "olloeH ,ereht dna woh era ?uoy")
